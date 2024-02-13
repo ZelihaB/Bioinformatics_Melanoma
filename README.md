@@ -42,3 +42,7 @@ Detailed Steps:
 ## 6. Annotate Variants with SpEff
 ![diagram(7)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/1de5f285-b605-43ec-9641-c77c2f77c050)
 
+## 7. Visualization and Interpretation with IGV
+![diagram(8)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/61ffc77e-e29a-4385-a13a-b1b255639c79)
+
+

@@ -5,6 +5,7 @@
 
 ![diagram](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/591da8c0-809a-49dc-a04d-1e75a3b19dfe)
 
-## Trimmomatic
+## Trimmomatic and Cutadapt
 
 ![diagram(2)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/465186cc-d6f3-48a8-b22f-aa23e9f70cb8)
+![diagram(3)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/2c8fce1c-e1df-4eff-a452-9f6b6efa0a93)

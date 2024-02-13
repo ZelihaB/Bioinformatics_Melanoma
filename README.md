@@ -45,4 +45,9 @@ Detailed Steps:
 ## 7. Visualization and Interpretation with IGV
 ![diagram(8)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/61ffc77e-e29a-4385-a13a-b1b255639c79)
 
+## 8. Simplified Comparative Analysis
+![diagram(9)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/63080799-abfa-40e8-9bce-bb207fa55b1b)
+
+## 9. 
+
 

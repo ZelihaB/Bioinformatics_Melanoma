@@ -7,4 +7,4 @@
 
 ## Trimmomatic
 
-![diagram(1)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/408fbec4-df16-48c0-bd86-acae7a9f3994)
+![diagram(2)](https://github.com/ZelihaB/Bioinformatics_Melanoma/assets/71549587/465186cc-d6f3-48a8-b22f-aa23e9f70cb8)
